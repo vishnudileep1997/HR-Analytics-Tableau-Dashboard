@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+![Dashboard](Images/dashboard-overview.png)
+
+
 # HR Analytics Dashboard – Tableau Project
 
 ## Project Overview
