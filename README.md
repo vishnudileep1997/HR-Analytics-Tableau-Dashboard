@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard-overview.png)
+![Dashboard](Imahes2/HR-Analytics-Tableau-Dashboard.png)
 
 
 # HR Analytics Dashboard – Tableau Project
